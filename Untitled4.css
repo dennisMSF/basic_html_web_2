@@ -1,0 +1,14 @@
+body {
+	font-size: 15pt;
+	color:  #ffffff ;
+}
+
+
+.bloque {
+  background-color: #ff1c1c;
+  border-radius: 10px;
+  box-shadow: 15px 10px #46ff49;
+  margin: 75px 124px;
+  padding: 10px;
+}
+
